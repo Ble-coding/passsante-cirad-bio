@@ -1,0 +1,2 @@
+
+{{ $row->sale_quantity }}
